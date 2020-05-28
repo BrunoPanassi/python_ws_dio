@@ -5,7 +5,7 @@ Na aula é feito no blog do site, porém esse projeto acessa a página Home da [
 
 A extração de dados é feita dos desenvolvedores apresentados na página e gravando suas informações como nome, cargo e empresa em um arquivo json.
 <img src='https://i.imgur.com/Dlhobd1.jpg'/>
-<img src='https://i.imgur.com/Cct3QRu.png'/>
+<img src='https://i.imgur.com/x8IK09g.png'/>
 
 Nesse projeto é usado as bibliotecas abaixo:
 - requests
