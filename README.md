@@ -3,6 +3,6 @@ Desafio aplicado no bootcamp Fullstack Developer Banco Carrefour da Digital Inno
 
 Na aula é feito no blog do site, porém esse projeto acessa a página Home da DIO (https://digitalinnovation.one/) por motivos de falha de acesso ao blog.
 
-Esse projeto usa as bibliotecas abaixo:
+Nesse projeto é usado as bibliotecas abaixo:
 - requests
 - BeautifulSoup4
